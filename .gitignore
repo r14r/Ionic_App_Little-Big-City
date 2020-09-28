@@ -1,3 +1,5 @@
+**/.env.d
+
 # Logs
 logs
 *.log
@@ -63,3 +65,6 @@ typings/
 
 dist/bundle.js.map
 .env
+**/.env.d
+**/.env
+
